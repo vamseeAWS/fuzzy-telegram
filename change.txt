@@ -1,5 +1,0 @@
-Change to Console 
-  The Lambda console has changed slightly
-
-  Instead of "Blank Project"  select  "Author from scratch" 
-
